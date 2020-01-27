@@ -3,13 +3,13 @@ module.exports = {
   siteDescription:
     'Brittany Chiang is a software engineer based in Boston, MA who specializes in developing (and occasionally designing) exceptional, high-quality websites and applications.',
   siteKeywords:
-    'Brittany Chiang, Brittany, Chiang, bchiang7, software engineer, front-end engineer, web developer, javascript, northeastern',
+    'Michael Lue, Michael, Lue, jamaicanfriedchicken, software engineer, front-end engineer, web developer, javascript, zhejiang university',
   siteUrl: 'https://brittanychiang.com',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Michael Lue',
-  location: 'Boston, MA',
+  location: 'Kingston, JA',
   email: 'mikey_lue777@hotmail.com',
   github: 'https://github.com/JamaicanFriedChicken',
   socialMedia: [

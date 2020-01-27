@@ -3,16 +3,16 @@ title: 'About Me'
 avatar: './me.jpg'
 skills:
   - JavaScript (ES6+)
-  - HTML & (S)CSS
+  - HTML & CSS
   - React
-  - Vue
+  - Python
   - Node.js
   - Express
-  - NativeScript
+  - Java
 ---
 
-Hello! I'm Brittany, a software engineer based in Boston, MA who enjoys building things that live on the internet. I develop exceptional websites and web apps that provide intuitive, pixel-perfect user interfaces with efficient and modern backends.
+Hello! I'm Michael, an aspiring software engineer in Kingston, Jamaica who enjoys building things that live on the web. I develop quality websites and applications utilizing the most relevant and modern technologies.
 
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+After I graduated from [Zhejiang University](https://www.zju.edu.cn/english/), I quickly became interested in software development despite myself majoring in Electronics Engineering that's mainly hardware, software became something interesting, thus starting my journey on developing interesting and meaningful projects.
 
 Here are a few technologies I've been working with recently:
