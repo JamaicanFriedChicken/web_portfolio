@@ -56,7 +56,6 @@ const StyledGitHubLink = styled.a`
 `;
 const StyledGitHubInfo = styled.div`
   margin-top: 10px;
-
   & > span {
     display: inline-flex;
     align-items: center;
@@ -127,7 +126,7 @@ const Footer = () => {
           href="https://github.com/bchiang7/v4"
           target="_blank"
           rel="nofollow noopener noreferrer">
-          <div>Designed &amp; Built by Brittany Chiang</div>
+          <div>End of the Resume! Nothing Beyond Here!</div>
 
           {githubInfo.stars && githubInfo.forks && (
             <StyledGitHubInfo>

@@ -9,4 +9,4 @@ tech:
 showInProjects: true
 ---
 
-A React web app for visualizing pathfinding algorithms and maze generating algorithms. Each algorithm functions differently at how they arrive at their destination. You don't understand the algorithms? No problem! You can learn and see how they are implemented by clicking the icon for help.
+A React web app for visualizing pathfinding algorithms and maze generating algorithms. Each algorithm functions differently at how they arrive at their destination. You don't understand the algorithms? No problem! You can learn and see how they are implemented by clicking the icon for more info.

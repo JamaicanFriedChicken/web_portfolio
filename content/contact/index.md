@@ -2,4 +2,4 @@
 title: 'Get In Touch'
 ---
 
-Although I'm not currently looking for freelance opportunities, my inbox is always open. Whether for a potential project or just to say hi, I'll try my best to answer your email!
+Currently in search of a software engineering job or freelancing opportunities, my inbox is always open. Be it something simple or a potential project, I'll try my best to reply to your email!

@@ -9,6 +9,8 @@ skills:
   - Node.js
   - Express
   - Java
+  - Machine Learning
+  - Image Processing
 ---
 
 Hello! I'm Michael, an aspiring software engineer in Kingston, Jamaica who enjoys building things that live on the web. I develop quality websites and applications utilizing the most relevant and modern technologies.
