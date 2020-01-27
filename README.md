@@ -40,4 +40,4 @@
 
 ## :sunglasses: Credits
 
-I would like to thank [@bchiang7](https://github.com/bchiang7) for the use of her [template](https://github.com/bchiang7/v4). Please go ahead out the original template.
+I would like to thank [@bchiang7](https://github.com/bchiang7) for the use of her [template](https://github.com/bchiang7/v4). Please go ahead and check out the original template.
