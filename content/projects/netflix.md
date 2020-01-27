@@ -1,5 +1,5 @@
 ---
-date: '2019-01-08'
+date: '2019-12-25'
 title: 'Netflix Page Clone'
 github: 'https://github.com/JamaicanFriedChicken/flappy-bird-clone'
 external: 'https://jamaicanfriedchicken.github.io/netflix-page-clone/'
