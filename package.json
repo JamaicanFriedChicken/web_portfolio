@@ -1,11 +1,11 @@
 {
-  "name": "v4",
-  "description": "Personal Website V4",
+  "name": "v1",
+  "description": "A Personal Website of Michael Lue",
   "version": "1.0.0",
-  "author": "Brittany Chiang <brittany.chiang@gmail.com>",
+  "author": "Michael Lue <mikey_lue777@hotmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/v4"
+    "url": "https://github.com/JamaicanFriedChicken"
   },
   "keywords": [
     "gatsby"

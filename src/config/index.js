@@ -1,10 +1,10 @@
 module.exports = {
   siteTitle: 'Michael Lue | Software Engineer',
   siteDescription:
-    'Brittany Chiang is a software engineer based in Boston, MA who specializes in developing (and occasionally designing) exceptional, high-quality websites and applications.',
+    'Michael is an aspiring software developer from Kingston, Jamaica specializing in building, quality websites and applications as well as reverse engineering anything I can get my hands on.',
   siteKeywords:
     'Michael Lue, Michael, Lue, jamaicanfriedchicken, software engineer, front-end engineer, web developer, javascript, zhejiang university',
-  siteUrl: 'https://brittanychiang.com',
+  siteUrl: 'https://michaellue.netlify.com/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',

@@ -7,7 +7,7 @@ const IconLogo = () => (
       <g transform="translate(11.000000, 5.000000)" fontSize="48">
         <text id="ML" fill="#64FFDA">
           <tspan x="25" y="63">
-            ML
+            B
           </tspan>
         </text>
         <polygon
