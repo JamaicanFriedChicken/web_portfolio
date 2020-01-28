@@ -6,8 +6,8 @@ import {
   IconCodepen,
   IconInstagram,
   IconTwitter,
-  IconStar,
-  IconFork,
+  // IconStar,
+  // IconFork,
 } from '@components/icons';
 import { socialMedia } from '@config';
 import styled from 'styled-components';
@@ -54,23 +54,23 @@ const StyledGitHubLink = styled.a`
   color: ${colors.slate};
   padding: 10px;
 `;
-const StyledGitHubInfo = styled.div`
-  margin-top: 10px;
-  & > span {
-    display: inline-flex;
-    align-items: center;
-    margin: 0 7px;
-  }
-  svg {
-    display: inline-block;
-    height: 15px;
-    width: auto;
-    margin-right: 5px;
-  }
-`;
+// const StyledGitHubInfo = styled.div`
+//   margin-top: 10px;
+//   & > span {
+//     display: inline-flex;
+//     align-items: center;
+//     margin: 0 7px;
+//   }
+//   svg {
+//     display: inline-block;
+//     height: 15px;
+//     width: auto;
+//     margin-right: 5px;
+//   }
+// `;
 
 const Footer = () => {
-  const [githubInfo, setGitHubInfo] = useState({
+  const [setGitHubInfo] = useState({
     stars: null,
     forks: null,
   });
@@ -128,7 +128,7 @@ const Footer = () => {
           rel="nofollow noopener noreferrer">
           <div>End of the Resume! Nothing Beyond Here!</div>
 
-          {githubInfo.stars && githubInfo.forks && (
+          {/* {githubInfo.stars && githubInfo.forks && (
             <StyledGitHubInfo>
               <span>
                 <IconStar />
@@ -139,7 +139,7 @@ const Footer = () => {
                 <span>{githubInfo.forks}</span>
               </span>
             </StyledGitHubInfo>
-          )}
+          )} */}
         </StyledGitHubLink>
       </StyledMetadata>
     </StyledContainer>
