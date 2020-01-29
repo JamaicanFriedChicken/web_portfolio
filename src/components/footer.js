@@ -126,7 +126,7 @@ const Footer = () => {
           href="https://github.com/JamaicanFriedChicken/web_portfolio"
           target="_blank"
           rel="nofollow noopener noreferrer">
-          <div>End of the Resume! Nothing Beyond Here!</div>
+          <div>End of the Website! Nothing Beyond Here!</div>
 
           {/* {githubInfo.stars && githubInfo.forks && (
             <StyledGitHubInfo>
