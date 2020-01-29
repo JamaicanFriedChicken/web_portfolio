@@ -19,6 +19,7 @@ const IconLoader = () => (
         strokeWidth="5"
         strokeLinecap="round"
         strokeLinejoin="round"
+        // to draw a M
         d=" M 40, 65
                   V 40
                   L 50, 60
