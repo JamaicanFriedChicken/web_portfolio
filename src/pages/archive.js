@@ -100,7 +100,6 @@ const ArchivePage = ({ location, data }) => {
     <Layout location={location}>
       <Helmet>
         <title>Archive | Michael Lue</title>
-        <link rel="canonical" href="https://brittanychiang.com/archive" />
       </Helmet>
 
       <StyledMainContainer>
