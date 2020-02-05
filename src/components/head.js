@@ -3,7 +3,8 @@ import PropTypes from 'prop-types';
 import Helmet from 'react-helmet';
 import config from '@config';
 import favicon from '@images/favicons/favicon.ico';
-import ogImage from '@images/og@2x.png';
+import ogImage from '@images/og.png';
+import ogImage2x from '@images/og@2x.png';
 import appleIcon57x57 from '@images/favicons/apple-icon-57x57.png';
 import appleIcon60x60 from '@images/favicons/apple-icon-60x60.png';
 import appleIcon72x72 from '@images/favicons/apple-icon-72x72.png';
@@ -43,7 +44,7 @@ const Head = ({ metadata }) => (
     <meta property="og:locale" content={config.siteLanguage} />
     <meta itemProp="name" content={metadata.title} />
     <meta itemProp="description" content={metadata.description} />
-    <meta itemProp="image" content={`${config.siteUrl}${ogImage}`} />
+    <meta itemProp="image" content={`${config.siteUrl}${ogImage2x}`} />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:url" content={metadata.siteUrl} />
     <meta name="twitter:site" content={config.twitterHandle} />
