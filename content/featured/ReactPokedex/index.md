@@ -1,5 +1,5 @@
 ---
-date: '4'
+date: '1'
 title: 'ReactJs Pokedex'
 cover: './demo.png'
 github: 'https://github.com/JamaicanFriedChicken/pokedex'
