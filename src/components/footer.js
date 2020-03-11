@@ -123,7 +123,7 @@ const Footer = () => {
       </StyledSocial>
       <StyledMetadata tabindex="-1">
         <StyledGitHubLink
-          href="https://github.com/JamaicanFriedChicken/web_portfolio"
+          href=""
           target="_blank"
           rel="nofollow noopener noreferrer">
           <div>End of the Website! Nothing Beyond Here!</div>
